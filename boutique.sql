@@ -1,5 +1,7 @@
 /* This script is for creating new tables and adding data into it*/
 
+/*aishwraya*/
+
 CREATE TABLE Boutique
 (
 Account int,
