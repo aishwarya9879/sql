@@ -1,3 +1,4 @@
+/* This script is for creating new tables and adding data into it*/
 CREATE TABLE Movies2
 (
 TicketNo int,
